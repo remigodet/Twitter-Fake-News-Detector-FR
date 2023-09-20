@@ -1,0 +1,8 @@
+*.pyc
+NLP/labeled_data/*/*.txt
+NLP/labeled_data/pos
+NLP/labeled_data/neg
+Data/*.json
+NLP/playground
+credentials.py
+__pycache__/
